@@ -1,0 +1,15 @@
+{
+  "name": "twitter-stream",
+  "version": "1.0.0",
+  "description": "Tony's Express lessons.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kate Wood",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
